@@ -11,8 +11,11 @@ Magnitudo is a small python script made because not all keyboard were born the s
 with prebuilt media controls on them and some doesn't. This project aims to provide a simple solution to the unlucky
 few (myself included) who doesn't have media controls on their keyboards.
 
-## Install
+Install
+---------------
+Download the latest release from [here](https://github.com/Flodur871/Magnitudo/releases/tag/v0.1)
 
+### Build from source
 ```shell
 $ git clone https://github.com/Flodur871/Magnitudo
 $ cd Magnitudo
@@ -20,7 +23,8 @@ $ pip install -r requirements.txt
 $ ui.pyw
 ```
 
-## Usage
+Usage
+---------------
 
 <table>
         <thead>
