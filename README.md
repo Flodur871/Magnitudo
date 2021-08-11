@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="D:\Github\Magnitudo\icon.png" height="50px"/>
+  <img src="https://raw.githubusercontent.com/Flodur871/Magnitudo/main/icon.png" height="50px"/>
   <br>
   Magnitudo
 </h1>
+
+![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/demo.gif)
 
 Magnitudo is a small python script made because not all keyboard were born the same. Unfortunately some keyboards come
 with prebuilt media controls on them and some doesn't. This project aims to provide a simple solution to the unlucky
