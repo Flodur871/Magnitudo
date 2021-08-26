@@ -16,11 +16,11 @@ Install
 Download the latest release from [here](https://github.com/Flodur871/Magnitudo/releases/tag/v0.1)
 
 ### Build from source
-```shell
-$ git clone https://github.com/Flodur871/Magnitudo
-$ cd Magnitudo
-$ pip install -r requirements.txt
-$ ui.pyw
+```
+git clone https://github.com/Flodur871/Magnitudo
+cd Magnitudo
+pip install -r requirements.txt
+ui.pyw
 ```
 
 Usage
