@@ -1,4 +1,4 @@
-pywin32
-pynput
-pywincoreaudio
-PySide2
+pywin32==301
+pynput==1.7.3
+pywincoreaudio==0.5
+PySide2==5.15.2
