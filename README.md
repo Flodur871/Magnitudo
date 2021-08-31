@@ -17,7 +17,7 @@ Download the latest release from [here](https://github.com/Flodur871/Magnitudo/r
 
 ### Build from source
 ```
-git clone https://github.com/Flodur871/Magnitudo
+git clone --depth 1 https://github.com/Flodur871/Magnitudo
 cd Magnitudo
 pip install -r requirements.txt
 python Magnitudo\ui.pyw
