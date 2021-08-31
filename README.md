@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Flodur871/Magnitudo/main/icon.png" height="50px"/>
+  <img src="https://raw.githubusercontent.com/Flodur871/Magnitudo/main/magnitudo/icon.png" height="50px"/>
   <br>
   Magnitudo
 </h1>
 
-![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/Screenshots/demo.gif)
-![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/Screenshots/ui.png)
+![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/Assets/demo.gif)
+![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/Assets/ui.png)
 
 Magnitudo is a small python script made because not all keyboard were born the same. Unfortunately some keyboards come
 with prebuilt media controls on them and some doesn't. This project aims to provide a simple solution to the unlucky
@@ -20,7 +20,7 @@ Download the latest release from [here](https://github.com/Flodur871/Magnitudo/r
 git clone https://github.com/Flodur871/Magnitudo
 cd Magnitudo
 pip install -r requirements.txt
-ui.pyw
+python Magnitudo\ui.pyw
 ```
 
 Usage
