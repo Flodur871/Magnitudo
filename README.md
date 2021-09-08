@@ -9,7 +9,7 @@
 
 Magnitudo is a small python script made because not all keyboard were born the same. Unfortunately some keyboards come
 with prebuilt media controls on them and some doesn't. This project aims to provide a simple solution to the unlucky
-few (myself included) who doesn't have media controls on their keyboards.
+few who doesn't have media controls on their keyboards.
 
 Install
 ---------------
