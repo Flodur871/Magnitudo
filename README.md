@@ -4,8 +4,8 @@
   Magnitudo
 </h1>
 
-![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/Assets/demo.gif)
-![](https://raw.githubusercontent.com/Flodur871/Magnitudo/main/Assets/ui.png)
+![](Assets/demo.gif)
+![](Assets/ui.png)
 
 Magnitudo is a small python script made because not all keyboard were born the same. Unfortunately some keyboards come
 with prebuilt media controls on them and some doesn't. This project aims to provide a simple solution to the unlucky
